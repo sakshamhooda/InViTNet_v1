@@ -1,0 +1,31 @@
+# Python artifacts
+__pycache__/
+*.py[cod]
+*.so
+
+# Virtual environment
+.venv/
+venv/
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb
+
+# IDE / Editor configs
+.idea/
+.vscode/
+
+# Logs and checkpoints
+checkpoints/
+logs/
+
+# Datasets and large files
+data/
+*.pt
+*.pth
+
+# OS files
+.DS_Store
+
+# Ignore the draft paper markdown
+paper.md
