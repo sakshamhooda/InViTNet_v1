@@ -84,20 +84,6 @@ Returns the predicted class ID and per-class probabilities.
 
 ---
 
-## 📝 Citation
-If you use this repository, please cite the original paper:
-
-```bibtex
-@article{Sondhi2023TwT,
-  title  = {TwT: A Texture Weighted Transformer for Medical Image Classification and Diagnosis},
-  author = {Sondhi, Mrigank and Sharma, Ayush and Malhotra, Ruchika},
-  year   = {2023},
-  journal= {arXiv preprint arXiv:2304.05704}
-}
-```
-
----
-
 ## 📄 License
 Licensed under the terms of the **MIT License** (see `LICENSE`).
 
@@ -106,4 +92,4 @@ Licensed under the terms of the **MIT License** (see `LICENSE`).
 ## 🔗 References
 - A. Hassani *et al.* “Escaping the Big Data Paradigm with Compact Transformers,” 2021.  
 - Z. Yu *et al.* “Searching Central Difference Convolutional Networks for Face Anti-Spoofing,” 2020.  
-- (See `paper.md` for the complete bibliography.)
+- (See `invitnet.pdf` for the complete bibliography.)
